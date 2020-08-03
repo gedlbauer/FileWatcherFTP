@@ -1,0 +1,15 @@
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.exe
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.deps.json
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.runtimeconfig.json
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.runtimeconfig.dev.json
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.dll
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\FileWatcherFTP.pdb
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.AssemblyInfoInputs.cache
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.AssemblyInfo.cs
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.dll
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.pdb
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.csprojAssemblyReference.cache
+D:\Projekte\C#\FileWatcherFTP\FileWatcherFTP\obj\Debug\netcoreapp3.1\FileWatcherFTP.csproj.CopyComplete
